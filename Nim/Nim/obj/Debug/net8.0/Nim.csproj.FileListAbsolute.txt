@@ -1,0 +1,15 @@
+C:\Users\jamaf\source\repos\Nim\Nim\bin\Debug\net8.0\Nim.exe
+C:\Users\jamaf\source\repos\Nim\Nim\bin\Debug\net8.0\Nim.deps.json
+C:\Users\jamaf\source\repos\Nim\Nim\bin\Debug\net8.0\Nim.runtimeconfig.json
+C:\Users\jamaf\source\repos\Nim\Nim\bin\Debug\net8.0\Nim.dll
+C:\Users\jamaf\source\repos\Nim\Nim\bin\Debug\net8.0\Nim.pdb
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.sourcelink.json
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.dll
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\refint\Nim.dll
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.pdb
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\Nim.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\Nim\Nim\obj\Debug\net8.0\ref\Nim.dll
